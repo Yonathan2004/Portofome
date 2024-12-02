@@ -1,0 +1,57 @@
+h1{
+    font-size: 70px;
+}
+
+.jawa{
+    padding: 0px 0px;
+    box-shadow: 20px 20px #E4E4E4;
+    width: 100%;
+    object-fit: cover;
+}
+
+.miaw{
+    width: 60%; 
+    object-fit: cover;
+    position: absolute;
+    
+}
+
+.extra-image {
+    width: 100%;
+    object-fit: cover;
+}
+
+
+.content-wrapper {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .about-image {
+    width: 100%; 
+    object-fit: cover;
+    margin-left: 20px; 
+  }
+  
+  .extra-image {
+    margin-top: 10px; 
+  }
+  
+  
+.left-image {
+    width: 100%; 
+    object-fit: cover;
+    display: block;
+    position: relative;
+    left: 0;
+  }
+  
+  .right-image {
+    width: 100%; 
+    object-fit: cover;
+    display: block;
+    position: relative;
+    right: 0;
+  }
+  
